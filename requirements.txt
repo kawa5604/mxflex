@@ -1,0 +1,10 @@
+click
+colorama
+requests
+dnspython
+fpdf
+ollama
+openai
+selenium
+beautifulsoup4
+cryptography
